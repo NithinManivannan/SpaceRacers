@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9867a3941626ff1439f1a4cde80fe747
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - countdownText: {instanceID: 0}
+  - startButton: {instanceID: 0}
+  - countdownAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
