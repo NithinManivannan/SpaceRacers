@@ -4,9 +4,10 @@ An innovative 3D Racing game implemented with C# in Unity
 "Space Racers" is our first-ever game. It's a thrilling 3D racing game where players maneuver high-speed cars through color-coded coins and obstacles, aiming to complete the track in record time.
 
 Game Highlights
-Immersive Gameplay: Navigate challenging tracks in the shortest time.
-Dynamic Interactions: Manage strategic car controls with a focus on color-matched navigation.
-Visual and Audio Feats: A 3D race track set in space and a captivating soundtrack.
+- Immersive Gameplay: Navigate challenging tracks in the shortest time.
+- Dynamic Interactions: Manage strategic car controls with a focus on color-matched navigation.
+- Visual and Audio Feats: A 3D race track set in space and a captivating soundtrack.
+
 
 
 
